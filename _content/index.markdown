@@ -9,14 +9,12 @@ the soothing sound of software developers speaking smoothly?
 
 Then _Growing Developers_ is for you!
 
-## Latest Show: [Self Directed Learning](/self-directed-learning-part-1) &mdash; March 27, 2013
+## Next Hangout: [Interviewing For Fit](/interviewing-for-fit/index.html)
+   &mdash; 11AM PST, 2PM EST on April 10, 2013
 
-As developers, we often have to take our education into our own hands. In this episode, we discuss reading the source, going it alone, and learning from books.
-
-Featuring [Evan Light](http://twitter.com/elight),
-[Geoff Petri](http://twitter.com/geopet),
-[Zach Briggs](http://twitter.com/theotherzach),
-and [Zee Spencer](http://twitter.com/zspencer)
+Deciding if a candidate is the right person to fit your team is hard. In this
+episode, we discuss how to discover whether that candidate is a good choice,
+both culturally and technically.
 
 ## Latest Path to Proficiency: [Amber Conville](/pathways-to-proficiency/amber-conville/index.html)
 
@@ -26,7 +24,17 @@ as well as her non-traditional educational background.
 [Download the
 Audio](//media.growingdevelopers.com/amber-conville-pathways-to-proficiency-1-growing-developers.mp3)
 
-## Previous Shows
+## Previous Hangouts
+
+### [Self Directed Learning Part 1](/self-directed-learning-part-1) &mdash; March 27, 2013
+
+As developers, we often have to take our education into our own hands. In this
+episode, we discuss reading the source, going it alone, and learning from books.
+
+Featuring [Evan Light](http://twitter.com/elight),
+[Geoff Petri](http://twitter.com/geopet),
+[Zach Briggs](http://twitter.com/theotherzach),
+and [Zee Spencer](http://twitter.com/zspencer)
 
 ### [Surviving a Bad Project](/surviving-a-bad-project) &mdash; March 13, 2013
 

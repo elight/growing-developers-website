@@ -2,8 +2,10 @@
 layout: base
 ---
 
+{% if page.youtube %}
 <iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.youtube }}" frameborder="0">
 </iframe>
+{% endif %}
 
 {% if page.tags contains "published" %}
 <h3><a href="http://media.growingdevelopers.com/{{ page.assetname }}.mp4">Download Video</a></h3>
